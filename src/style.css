@@ -1,0 +1,9 @@
+body{
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+  background-color: rgb(244, 244, 244);
+}
+:root{
+    --maincolor:rgb(196, 86, 86);
+  }
